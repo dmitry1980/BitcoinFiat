@@ -1,0 +1,2 @@
+usr/local/bin/bitcoinfiatd usr/bin
+usr/local/bin/bitcoinfiat-cli usr/bin

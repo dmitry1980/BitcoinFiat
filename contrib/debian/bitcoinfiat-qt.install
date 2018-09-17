@@ -1,0 +1,6 @@
+usr/local/bin/bitcoinfiat-qt usr/bin
+share/pixmaps/bitcoinfiat32.xpm usr/share/pixmaps
+share/pixmaps/bitcoinfiat16.xpm usr/share/pixmaps
+share/pixmaps/bitcoinfiat128.png usr/share/pixmaps
+debian/bitcoinfiat-qt.desktop usr/share/applications
+debian/bitcoinfiat-qt.protocol usr/share/kde4/services/

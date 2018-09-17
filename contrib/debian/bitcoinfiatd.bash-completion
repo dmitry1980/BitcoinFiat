@@ -1,0 +1,2 @@
+contrib/bitcoinfiatd.bash-completion	bitcoinfiatd
+contrib/bitcoinfiat-cli.bash-completion    bitcoinfiat-cli
