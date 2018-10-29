@@ -1,5 +1,5 @@
 ---
-name: "bitcoinfiat-win-0.12"
+name: "bitcoinfiat-win-1.0.0.1"
 enable_cache: true
 suites:
 - "trusty"
